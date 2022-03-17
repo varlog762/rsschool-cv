@@ -48,3 +48,4 @@ I like programming (and everything related to technology in general). I worked a
 ********************************
 
 ### English - A2
+### Russian - native
